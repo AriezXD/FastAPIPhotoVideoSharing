@@ -1,4 +1,4 @@
-#FastAPI photo and video sharing
+'''#FastAPI photo and video sharing
 
 A real time photo and video sharing platform built using FastAPI(backend) and streamlit(frontend)
 
@@ -15,4 +15,4 @@ A real time photo and video sharing platform built using FastAPI(backend) and st
 -Streamlit
 -SQLAlchemy
 -PostgreSQL
--imagekitio
+-imagekitio'''
