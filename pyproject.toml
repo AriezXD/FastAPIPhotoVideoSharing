@@ -1,0 +1,14 @@
+[project]
+name = "fastapiphotovideosharing"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "aiosqlite>=0.22.1",
+    "fastapi>=0.136.3",
+    "imagekitio>=5.5.2",
+    "python-dotenv>=1.2.2",
+    "users[sqlalchemy]>=1.0.dev0",
+    "uvicorn[standard]>=0.48.0",
+]
